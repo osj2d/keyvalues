@@ -16,10 +16,10 @@ time a key is pressed on the keyboard.
 
 ## User Stories
 
-- [ ] User can see a display panel containing a text area where the key value
+- [X] User can see a display panel containing a text area where the key value
       and key code will be displayed along with display areas for four other
       indicators related to the keys on the keyboard - alt key, control key,
-      meta key, and shift key.
+      meta key, and shift key.~
 - [ ] User can see the key code and key value displayed in the display panel
       corresponding to the key when it is pressed.
 - [ ] User can see the appropriate indicator change from 'False' to 'True'
